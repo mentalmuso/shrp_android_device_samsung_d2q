@@ -1,0 +1,1 @@
+# shrp_android_device_samsung_d2q
